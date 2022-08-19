@@ -1,0 +1,30 @@
+.navigation a {
+  padding-left: 30px;
+  font-size: 15px;
+  margin-top: 30px;
+  position: relative;
+}
+.navigation nav {
+  text-align: center;
+  width: 80%;
+  padding-top: 20px;
+  height: 50px;
+  background-color: aqua;
+}
+.buttons {
+  text-align: right;
+  padding-right: 40px;
+  position: absolute;
+  right: 0;
+  padding-top: 20px;
+  top: 0;
+  background-color: black;
+  height: 50px;
+  padding-left: 10px;
+}
+.fab {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 150px;
+}

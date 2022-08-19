@@ -1,0 +1,24 @@
+.name {
+  text-align: center;
+  color: green;
+  font-size: 30px;
+}
+.image {
+  width: 400px;
+  margin-top: 20px;
+}
+.group1 {
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid;
+  margin-top: 30px;
+}
+.group2 {
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid;
+}
+button {
+  padding: 10px;
+  border-radius: 5px;
+}
